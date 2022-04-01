@@ -1,0 +1,37 @@
+div.h {
+    width: 100%;
+    border: 5px solid black;
+    text-align: center;
+    color: yellow;
+    background-color: red;
+    font-family: Calibri;
+    font-size: 350%;
+}
+#elementHN{
+    background-image: url("duong-pho-ha-noi-ve-dem-5.jpg");
+}
+#element1{
+    font-size: 200%;
+    font-family: "High Tower Text";
+    color: yellow;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
